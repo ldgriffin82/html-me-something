@@ -1,0 +1,82 @@
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color:#000000;
+    font-size: 62.5%;
+    font-family: Verdana;
+}
+
+main h2 {
+	padding: 0.625em 0 0.625em 0.625em;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: tahoma;
+}
+
+p{
+    color: white;
+    text-align: justify;
+    padding: 25px 50px 75px 100px;
+}
+
+header,
+main,
+footer {
+    background-color: rgb(29, 31, 31);
+    font-size: 1.6em;
+    padding: 0rem;
+}
+
+
+
+header {
+	padding: 1.875em 0;
+}
+
+header h1 {
+	text-align: center;
+}
+
+h2, h3 {
+    margin: 0;
+    color: rgb(121, 109, 172);
+    text-align: center; 
+}
+
+figcaption {
+    font-style: italic;
+    color: whitesmoke;
+    text-align: center;
+}
+
+nav ul {
+	text-align: center;
+    padding: 0;
+    
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+    font-size: 0.75em;
+    color: blanchedalmond;
+}
+
+
+img {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    
+}
+
+
+
+
+
+
